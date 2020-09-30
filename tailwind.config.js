@@ -12,6 +12,9 @@ module.exports = {
         'regal-red' : '#fc3003',
       }
     },
+    fontFamily:{
+      'display': ['Oswald'],
+    }
   },
   variants: {},
   plugins: [],
